@@ -1,2 +1,2 @@
 # benjaminvenegas.com
-Portafolio web
+Bienvenido a mi portafolio web, soy Benjamín Venegas, Analista programador.
